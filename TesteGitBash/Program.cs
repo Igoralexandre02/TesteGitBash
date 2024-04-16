@@ -10,6 +10,7 @@ namespace TesteGitBash
             Console.WriteLine("Good morning!");
             Console.WriteLine("Qual seu nome?");
             Console.WriteLine("Qual sua idade?");
+            Console.WriteLine("Carro");
         }
     }
 }
