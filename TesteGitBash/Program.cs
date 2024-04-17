@@ -11,6 +11,9 @@ namespace TesteGitBash
             Console.WriteLine("Qual seu nome?");
             Console.WriteLine("Qual sua idade?");
             Console.WriteLine("Carro");
+            Console.Write("Qual seu nome");
+            string nome = Console.ReadLine();
+            Console.WriteLine("Bom dia" + nome);
         }
     }
 }
